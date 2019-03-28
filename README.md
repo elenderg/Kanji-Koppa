@@ -10,4 +10,5 @@ O idioma japonês é considerado até hoje como um dos mais difíceis de serem a
 Facilitar o aprendizado desses Kanjis é a proposta desse projeto. Partindo da mesma metodologia utilizada por
 [James Wallace Heisig] (https://en.wikipedia.org/wiki/James_Heisig)
 , Andreas Foerster e Naoko Tamura, que divide os Kanjis em componentes menores, chamados de *primitives* ou radicais, muitas vezes criando novos componentes além dos 214 radicais clássicos podendo esse número chegar a mais de 500 componentes. 
+[James Wallace Heisig](https://en.wikipedia.org/wiki/James_Heisig)
 
